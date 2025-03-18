@@ -1,6 +1,6 @@
 # 🛠️ Fixing `dpkg` Errors in Ubuntu  
 
-![Ubuntu Logo](https://upload.wikimedia.org/wikipedia/commons/3/3a/Ubuntu_Circle_of_Friends_logo.svg)  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 
 
 Are you facing **dpkg errors** in Ubuntu? This guide provides simple and effective commands to fix **broken packages** and **dependency issues** in `dpkg`.  
 
