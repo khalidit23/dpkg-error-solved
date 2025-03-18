@@ -4,6 +4,8 @@
 
 Are you facing **dpkg errors** in Ubuntu? This guide provides simple and effective commands to fix **broken packages** and **dependency issues** in `dpkg`.  
 
+![img alt](https://github.com/khalidit23/dpkg-error-solved/blob/fc321b26e6c162a09e899a463671be2a5db17c24/Screenshot%202025-03-18.jpg)
+
 ## 🚀 Commands to Fix `dpkg` Issues  
 
 Run these commands in the terminal **one by one** to resolve common `dpkg` errors:  
